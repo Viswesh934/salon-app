@@ -15,23 +15,22 @@ Salon Booking System is a backend application designed to manage booking functio
 
 1. **Clone the repository**:
 
-   \`\`\`bash
    git clone https://github.com/gyanavardhana/7webs.git
-   \`\`\`
 
-2. **Navigate to the cloned folder**:
 
-   \`\`\`bash
+3. **Navigate to the cloned folder**:
+
+   
    cd salon-app
-   \`\`\`
 
-3. **Install dependencies**:
 
-   \`\`\`bash
+4. **Install dependencies**:
+
+   
    npm install
-   \`\`\`
 
-4. **Configure environment variables**:
+
+5. **Configure environment variables**:
 
    - Create a \`.env\` file in the root directory.
    - Define the following environment variables:
@@ -41,17 +40,16 @@ Salon Booking System is a backend application designed to manage booking functio
      JWT_SECRET=some secret code
      \`\`\`
 
-5. **Test the endpoints**:
+6. **Test the endpoints**:
 
-   \`\`\`bash
+   
    npm test
-   \`\`\`
 
-6. **Start the Server**:
 
-   \`\`\`bash
+7. **Start the Server**:
+
+
    node app.js
-   \`\`\`
 
    The server should now be running on [http://localhost:3000](http://localhost:3000).
 
